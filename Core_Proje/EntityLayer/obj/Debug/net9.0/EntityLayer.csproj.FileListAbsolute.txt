@@ -1,0 +1,14 @@
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/bin/Debug/net9.0/EntityLayer.deps.json
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/bin/Debug/net9.0/EntityLayer.runtimeconfig.json
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/bin/Debug/net9.0/EntityLayer.dll
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/bin/Debug/net9.0/EntityLayer.pdb
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.AssemblyInfo.cs
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.dll
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/refint/EntityLayer.dll
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.pdb
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/EntityLayer.genruntimeconfig.cache
+/Users/bertugkuturoglu/RiderProjects/Core_Proje/EntityLayer/obj/Debug/net9.0/ref/EntityLayer.dll
